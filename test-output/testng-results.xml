@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32767" started-at="2021-10-05T14:25:59 CDT" finished-at="2021-10-05T14:26:32 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32767" started-at="2021-10-05T14:25:59 CDT" finished-at="2021-10-05T14:26:32 CDT">
+      <class name="com.project.pom.test.Tools_QATest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.project.pom.test.Tools_QATest@33c7e1bb]" name="beforeSuite" is-config="true" duration-ms="5019" started-at="2021-10-05T14:25:54 CDT" finished-at="2021-10-05T14:25:59 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="testElements()[pri:5, instance:com.project.pom.test.Tools_QATest@33c7e1bb]" name="testElements" duration-ms="2042" started-at="2021-10-05T14:25:59 CDT" finished-at="2021-10-05T14:26:01 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testElements -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.project.pom.test.Tools_QATest@33c7e1bb]" name="afterMethod" is-config="true" duration-ms="1888" started-at="2021-10-05T14:26:01 CDT" finished-at="2021-10-05T14:26:03 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testForms()[pri:10, instance:com.project.pom.test.Tools_QATest@33c7e1bb]" name="testForms" duration-ms="3762" started-at="2021-10-05T14:26:03 CDT" finished-at="2021-10-05T14:26:07 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForms -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.project.pom.test.Tools_QATest@33c7e1bb]" name="afterMethod" is-config="true" duration-ms="438" started-at="2021-10-05T14:26:07 CDT" finished-at="2021-10-05T14:26:07 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testAlertsFramesWindows()[pri:15, instance:com.project.pom.test.Tools_QATest@33c7e1bb]" name="testAlertsFramesWindows" duration-ms="2520" started-at="2021-10-05T14:26:07 CDT" finished-at="2021-10-05T14:26:10 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAlertsFramesWindows -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.project.pom.test.Tools_QATest@33c7e1bb]" name="afterMethod" is-config="true" duration-ms="446" started-at="2021-10-05T14:26:10 CDT" finished-at="2021-10-05T14:26:10 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testWidgets()[pri:20, instance:com.project.pom.test.Tools_QATest@33c7e1bb]" name="testWidgets" duration-ms="1667" started-at="2021-10-05T14:26:10 CDT" finished-at="2021-10-05T14:26:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWidgets -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.project.pom.test.Tools_QATest@33c7e1bb]" name="afterMethod" is-config="true" duration-ms="473" started-at="2021-10-05T14:26:12 CDT" finished-at="2021-10-05T14:26:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testBookStore()[pri:25, instance:com.project.pom.test.Tools_QATest@33c7e1bb]" name="testBookStore" duration-ms="18947" started-at="2021-10-05T14:26:12 CDT" finished-at="2021-10-05T14:26:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBookStore -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.project.pom.test.Tools_QATest@33c7e1bb]" name="afterMethod" is-config="true" duration-ms="535" started-at="2021-10-05T14:26:31 CDT" finished-at="2021-10-05T14:26:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.project.pom.test.Tools_QATest@33c7e1bb]" name="afterSuite" is-config="true" duration-ms="196" started-at="2021-10-05T14:26:32 CDT" finished-at="2021-10-05T14:26:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.project.pom.test.Tools_QATest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
